@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+
+<options>
+
+	<option key="svcomp" value="true"/> 
+
+	<option key="file" value="soft_float_1_true-unreach-call.c.cil.c"/> 
+	<option key="check_witness" value="true" />
+
+
+
+</options>

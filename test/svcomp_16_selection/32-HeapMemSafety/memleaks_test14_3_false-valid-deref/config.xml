@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<options>
+<option key="svcomp" value="true"/>
+<option key="file" value="memleaks_test14_3_false-valid-deref.i"/>
+<option key="check_witness" value="true"/>
+</options>

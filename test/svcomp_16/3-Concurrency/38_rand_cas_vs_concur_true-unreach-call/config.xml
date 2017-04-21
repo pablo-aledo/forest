@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+
+<options>
+	<option key="svcomp" value="true"/> 
+	<option key="sequentialize" value="true"/> 
+	<option key="file" value="38_rand_cas_vs_concur_true-unreach-call.i"/> 
+</options>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<graphml xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://graphml.graphdrawing.org/xmlns">
+<graph edgedefault="directed">
+   <node id="A1"><data key="entry">true</data> </node>
+   <node id="A2"> <data key="sink">true</data> <data key="violation">true</data></node>
+   <edge source="A1" target="A2"> <data key="tokens">0</data> </edge>
+</graph>
+</graphml>

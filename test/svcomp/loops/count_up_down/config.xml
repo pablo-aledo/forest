@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+
+<options>
+	<option key="test" value="true"/> 
+	<option key="check_coverage" value="true"/> 
+	<option key="explanation" value="Count_up_down"/> 
+	<option key="file" value="count_up_down.c"/> 
+	<option key="expected_fn_coverage" value="100"/> 
+	<option key="expected_bb_coverage" value="100"/> 
+</options>

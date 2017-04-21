@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+
+<options>
+
+	<option key="svcomp" value="true"/> 
+	<option key="recursive" value="true"/> 
+
+	<option key="file" value="Addition01_true-unreach-call_true-termination.c"/> 
+	<option key="check_witness" value="true" />
+
+
+
+</options>

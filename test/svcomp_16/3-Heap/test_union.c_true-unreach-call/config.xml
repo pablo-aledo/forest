@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<options>
+<option key="svcomp" value="true"/>
+<option key="file" value="test_union.c_true-unreach-call.i"/>
+</options>

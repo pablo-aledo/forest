@@ -1,0 +1,6 @@
+<?xml version="1.0" ?>
+
+<options>
+	<option key="svcomp" value="true"/> 
+	<option key="file" value="veris.c_NetBSD-libc__loop_true-unreach-call.i"/> 
+</options>

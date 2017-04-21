@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+
+<options>
+	<option key="test" value="true"/> 
+	<option key="explanation" value="svcomp ssl"/> 
+	<option key="file" value="s3_srvr_1a.c"/> 
+	<option key="forced_free_hint" value="main_register_s__hit"/>
+	<option key="forced_free_hint" value="main_register_s__verify_mode"/>
+	<option key="forced_free_hint" value="main_register_s__session__peer"/>
+	<option key="forced_free_hint" value="main_register_s__s3__tmp__new_cipher__algorithms"/>
+	<option key="forced_free_hint" value="main_register_tmp___1"/>
+</options>
+
+
+

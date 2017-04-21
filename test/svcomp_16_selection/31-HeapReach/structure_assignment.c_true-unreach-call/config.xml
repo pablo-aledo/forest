@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<options>
+<option key="svcomp" value="true"/>
+<option key="file" value="structure_assignment.c_true-unreach-call.i"/>
+<option key="check_witness" value="true"/>
+</options>

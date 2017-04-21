@@ -1,0 +1,6 @@
+<?xml version="1.0" ?>
+
+<options>
+	<option key="svcomp" value="true"/> 
+	<option key="file" value="java_AG313-alloca_true-valid-memsafety.i"/> 
+</options>

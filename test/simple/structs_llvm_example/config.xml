@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+
+<options>
+	<option key="test" value="true"/> 
+	<option key="explanation" value="structs example in llvm documentation"/> 
+	<option key="file" value="structs_llvm_example.c"/> 
+</options>

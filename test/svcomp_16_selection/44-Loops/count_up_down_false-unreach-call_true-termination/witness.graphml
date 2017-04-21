@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<graphml xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://graphml.graphdrawing.org/xmlns">
+<graph edgedefault="directed">
+<node id="A1"><data key="entry">true</data> </node>
+   <node id="A2"/>
+   <node id="A3"/>
+   <node id="A4"/>
+   <node id="A5"/>
+   <node id="A6"> <data key="sink">true</data><data key="violation">true</data></node>
+   <edge source="A1" target="A2"> <data key="tokens">66</data> </edge>
+   <edge source="A2" target="A3"> <data key="tokens">68</data> </edge>
+   <edge source="A3" target="A4"> <data key="tokens">88</data> </edge>
+   <edge source="A4" target="A5"> <data key="tokens">21</data> </edge>
+   <edge source="A5" target="A6"> <data key="tokens">30</data> </edge>
+</graph>
+</graphml>

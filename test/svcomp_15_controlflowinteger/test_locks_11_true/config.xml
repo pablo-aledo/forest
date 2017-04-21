@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+
+<options>
+
+	<option key="svcomp" value="true"/> 
+	<option key="force_run" value="true">
+
+	<option key="file" value="test_locks_11_true-unreach-call_false-termination.c"/> 
+	<option key="check_witness" value="true" />
+
+
+
+</options>

@@ -1,0 +1,6 @@
+<?xml version="1.0" ?>
+
+<options>
+	<option key="svcomp" value="true"/> 
+	<option key="file" value="memleaks_test18_2_false-valid-memtrack.i"/> 
+</options>

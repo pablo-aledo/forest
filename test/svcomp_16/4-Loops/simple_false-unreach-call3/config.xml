@@ -1,0 +1,6 @@
+<?xml version="1.0" ?>
+
+<options>
+	<option key="svcomp" value="true"/> 
+	<option key="file" value="simple_false-unreach-call3.i"/> 
+</options>

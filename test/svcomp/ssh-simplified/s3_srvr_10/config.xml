@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+
+<options>
+	<option key="test" value="true"/> 
+	<option key="explanation" value="svcomp ssl"/> 
+	<option key="file" value="s3_srvr_10.c"/> 
+	<option key="forced_free_hint" value="Z11ssl3accepti_register_s__info_callback"/>
+	<option key="forced_free_hint" value="Z11ssl3accepti_register_s__in_handshake"/>
+	<option key="forced_free_hint" value="Z11ssl3accepti_register_s__version"/>
+	<option key="forced_free_hint" value="Z11ssl3accepti_register_s__hit"/>
+	<option key="forced_free_hint" value="Z11ssl3accepti_register_s__debug"/>
+	<option key="forced_free_hint" value="Z11ssl3accepti_register_s__cert"/>
+	<option key="forced_free_hint" value="Z11ssl3accepti_register_s__options"/>
+	<option key="forced_free_hint" value="Z11ssl3accepti_register_s__verify_mode"/>
+	<option key="forced_free_hint" value="Z11ssl3accepti_register_s__session__peer"/>
+	<option key="forced_free_hint" value="Z11ssl3accepti_register_s__cert__pkeys__AT0__privatekey"/>
+	<option key="forced_free_hint" value="Z11ssl3accepti_register_s__ctx__info_callback"/>
+	<option key="forced_free_hint" value="Z11ssl3accepti_register_s__ctx__stats__sess_accept_renegotiate"/>
+	<option key="forced_free_hint" value="Z11ssl3accepti_register_s__ctx__stats__sess_accept"/>
+	<option key="forced_free_hint" value="Z11ssl3accepti_register_s__ctx__stats__sess_accept_good"/>
+	<option key="forced_free_hint" value="Z11ssl3accepti_register_s__s3__tmp__new_cipher"/>
+	<option key="forced_free_hint" value="Z11ssl3accepti_register_s__s3__tmp__new_cipher__algo_strength"/>
+	<option key="forced_free_hint" value="Z11ssl3accepti_register_buf"/>
+	<option key="forced_free_hint" value="Z11ssl3accepti_register_tmp"/>
+	<option key="forced_free_hint" value="Z11ssl3accepti_register_tmp___1"/>
+	<option key="forced_free_hint" value="Z11ssl3accepti_register_tmp___2"/>
+	<option key="forced_free_hint" value="Z11ssl3accepti_register_tmp___8"/>
+	<option key="forced_free_hint" value="Z11ssl3accepti_register_tmp___3"/>
+	<option key="forced_free_hint" value="Z11ssl3accepti_register_tmp___4"/>
+	<option key="forced_free_hint" value="Z11ssl3accepti_register_tmp___5"/>
+	<option key="forced_free_hint" value="Z11ssl3accepti_register_ret"/>
+	<option key="forced_free_hint" value="Z11ssl3accepti_register_tmp___6"/>
+	<option key="forced_free_hint" value="Z11ssl3accepti_register_num1"/>
+	<option key="forced_free_hint" value="Z11ssl3accepti_register_tmp___9"/>
+	<option key="forced_free_hint" value="Z11ssl3accepti_register_tmp___10"/>
+</options>
+
+
+

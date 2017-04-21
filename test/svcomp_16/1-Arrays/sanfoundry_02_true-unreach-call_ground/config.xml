@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+
+<options>
+	<option key="svcomp" value="true"/> 
+	<option key="file" value="sanfoundry_02_true-unreach-call_ground.i"/> 
+	<option key="check_witness" value="true" />
+</options>

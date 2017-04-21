@@ -1,0 +1,6 @@
+<?xml version="1.0" ?>
+
+<options>
+	<option key="svcomp" value="true"/> 
+	<option key="file" value="count_up_down_false-unreach-call_true-termination.i"/> 
+</options>

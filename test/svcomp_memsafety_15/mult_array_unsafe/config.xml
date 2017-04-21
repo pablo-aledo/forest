@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+
+<options>
+	<option key="svcomp" value="true"/> 
+	<option key="force_run" value="true"/> 
+	<option key="file" value="mult_array_unsafe.c"/> 
+	<option key="check_witness" value="true" />
+</options>

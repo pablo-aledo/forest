@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+
+<options>
+
+	<option key="svcomp" value="true"/> 
+
+	<option key="file" value="s3_clnt.blast.04_false-unreach-call.i.cil.c"/> 
+	<option key="check_witness" value="true" />
+
+
+
+</options>

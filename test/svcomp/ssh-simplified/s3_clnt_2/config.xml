@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+
+<options>
+	<option key="test" value="true"/> 
+	<option key="explanation" value="svcomp ssl"/> 
+	<option key="file" value="s3_clnt_2.c"/> 
+	<option key="forced_free_hint" value="Z12ssl3connecti_register_s__info_callback"/>
+	<option key="forced_free_hint" value="Z12ssl3connecti_register_s__in_handshake"/>
+	<option key="forced_free_hint" value="Z12ssl3connecti_register_s__version"/>
+	<option key="forced_free_hint" value="Z12ssl3connecti_register_s__bbio"/>
+	<option key="forced_free_hint" value="Z12ssl3connecti_register_s__wbio"/>
+	<option key="forced_free_hint" value="Z12ssl3connecti_register_s__hit"/>
+	<option key="forced_free_hint" value="Z12ssl3connecti_register_s__debug"/>
+	<option key="forced_free_hint" value="Z12ssl3connecti_register_s__ctx__info_callback"/>
+	<option key="forced_free_hint" value="Z12ssl3connecti_register_s__ctx__stats__sess_connect_renegotiate"/>
+	<option key="forced_free_hint" value="Z12ssl3connecti_register_s__ctx__stats__sess_connect"/>
+	<option key="forced_free_hint" value="Z12ssl3connecti_register_s__ctx__stats__sess_hit"/>
+	<option key="forced_free_hint" value="Z12ssl3connecti_register_s__ctx__stats__sess_connect_good"/>
+	<option key="forced_free_hint" value="Z12ssl3connecti_register_s__s3__tmp__cert_req"/>
+	<option key="forced_free_hint" value="Z12ssl3connecti_register_s__s3__tmp__new_compression"/>
+	<option key="forced_free_hint" value="Z12ssl3connecti_register_s__s3__tmp__reuse_message"/>
+	<option key="forced_free_hint" value="Z12ssl3connecti_register_s__s3__tmp__new_cipher"/>
+	<option key="forced_free_hint" value="Z12ssl3connecti_register_s__s3__tmp__new_cipher__algorithms"/>
+	<option key="forced_free_hint" value="Z12ssl3connecti_register_s__s3__tmp__new_compression__id"/>
+	<option key="forced_free_hint" value="Z12ssl3connecti_register_tmp___1"/>
+	<option key="forced_free_hint" value="Z12ssl3connecti_register_tmp___2"/>
+	<option key="forced_free_hint" value="Z12ssl3connecti_register_tmp___3"/>
+	<option key="forced_free_hint" value="Z12ssl3connecti_register_tmp___4"/>
+	<option key="forced_free_hint" value="Z12ssl3connecti_register_tmp___5"/>
+	<option key="forced_free_hint" value="Z12ssl3connecti_register_tmp___6"/>
+	<option key="forced_free_hint" value="Z12ssl3connecti_register_tmp___7"/>
+	<option key="forced_free_hint" value="Z12ssl3connecti_register_tmp___8"/>
+	<option key="forced_free_hint" value="Z12ssl3connecti_register_tmp___9"/>
+	<option key="forced_free_hint" value="Z12ssl3connecti_register_tmp"/>
+	<option key="forced_free_hint" value="Z12ssl3connecti_register_buf"/>
+	<option key="forced_free_hint" value="Z12ssl3connecti_register_ret"/>
+</options>
+
+
+

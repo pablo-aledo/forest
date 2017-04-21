@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+
+<options>
+
+	<option key="svcomp" value="true"/> 
+
+	<option key="file" value="overflow_true-unreach-call1.c"/> 
+	<option key="check_witness" value="true" />
+
+
+
+</options>

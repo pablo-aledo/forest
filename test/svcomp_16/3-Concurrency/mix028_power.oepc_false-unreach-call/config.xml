@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+
+<options>
+	<option key="svcomp" value="true"/> 
+	<option key="sequentialize" value="true"/> 
+	<option key="file" value="mix028_power.oepc_false-unreach-call.i"/> 
+</options>

@@ -1,0 +1,5 @@
+getopt
+mbtowc
+strcat
+basename
+dirname

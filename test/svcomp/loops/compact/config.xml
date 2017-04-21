@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+
+<options>
+	<option key="test" value="true"/> 
+	<option key="check_coverage" value="true"/> 
+	<option key="explanation" value="Compact"/> 
+	<option key="file" value="compact.c"/> 
+	<option key="expected_fn_coverage" value="100"/> 
+	<option key="expected_bb_coverage" value="100"/> 
+	<option key="sym_argvs" value="1 2 10"/> 
+</options>

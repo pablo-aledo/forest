@@ -1,0 +1,27 @@
+input:tilOld0:(_ BitVec 8)
+output:tilOld1:(_ BitVec 8)
+input:tilLevel0:(_ BitVec 8)
+output:tilLevel1:(_ BitVec 8)
+input:emerSwitch0:Bool
+output:emerSwitch1:Bool
+input:HasOutput_output0:(_ BitVec 1)
+output:HasOutput_output1:(_ BitVec 1)
+input:ctr0:(_ BitVec 8)
+output:ctr1:(_ BitVec 8)
+input:lOld0:Bool
+output:lOld1:Bool
+input:rOld0:Bool
+output:rOld1:Bool
+input:left0:Bool
+output:left1:Bool
+input:right0:Bool
+output:right1:Bool
+input:lampsLeft0:Bool
+output:lampsLeft1:Bool
+input:lampsRight0:Bool
+output:lampsRight1:Bool
+input:HasOutput_flash0:(_ BitVec 1)
+output:HasOutput_flash1:(_ BitVec 1)
+content:(= preconditions (and (or (or (= left0 true) (= right0 true)) (and (bvuge ctr0 (_ bv1 8)) (bvult ctr0 (_ bv3 8)))) (and (= lampsLeft0 false) (= lampsRight0 false))))
+content:(= postconditions (and (=> (or (= left0 true) (= lOld0 true)) (= lampsLeft1 true)) (=> (or (= right0 true) (= rOld0 true)) (= lampsRight1 true)) (=> (bvult ctr0 (_ bv3 8)) (= ctr1 (bvadd ctr0 (_ bv1 8)))) (=> (bvuge ctr0 (_ bv3 8)) (= ctr1 ctr0)) (= left1 left0) (= right1 right0) (= emerSwitch1 emerSwitch0) (= tilOld1 tilOld0) (= tilLevel1 tilLevel0) (= lOld1 lOld0) (= rOld1 rOld0)))
+content:(= frameconditions (and (= HasOutput_output1 HasOutput_output0) (= HasOutput_flash1 HasOutput_flash0)))

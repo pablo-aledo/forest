@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+
+<options>
+	<option key="test" value="true"/> 
+	<option key="svcomp" value="true"/> 
+	<option key="explanation" value="sum03_true"/> 
+	<option key="file" value="sum03_true.c"/> 
+	<option key="driven_by_frontend" value="true"/> 
+	<option key="max_depth" value="500"/> 
+	<option key="target_node" value="error"/> 
+</options>

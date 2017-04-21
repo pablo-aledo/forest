@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<options>
+<option key="svcomp" value="true"/>
+<option key="file" value="bigshot_p_false-unreach-call.i"/>
+<option key="check_witness" value="true"/>
+</options>
